@@ -1,0 +1,22 @@
+{
+  "name": "SimpleTask",
+  "version": "1.0.0",
+  "description": "Simple Task Library for Arduino",
+  "keywords": "task",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cotechworks/SimpleTask.git"
+  },
+  "authors": [
+    {
+      "name": "Koki Kokubo",
+      "email": "cotechworks63@gmail.com",
+      "url": "https://cotechworks.ltt.jp/"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://cotechworks.ltt.jp/",
+  "dependencies": {},
+  "frameworks": "arduino",
+  "platforms": "*"
+}
