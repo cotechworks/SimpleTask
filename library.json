@@ -11,11 +11,11 @@
     {
       "name": "Koki Kokubo",
       "email": "cotechworks63@gmail.com",
-      "url": "https://cotechworks.ltt.jp/"
+      "url": "https://github.com/cotechworks"
     }
   ],
   "license": "MIT",
-  "homepage": "https://cotechworks.ltt.jp/",
+  "homepage": "https://github.com/cotechworks/SimpleTask",
   "dependencies": {},
   "frameworks": "arduino",
   "platforms": "*"
