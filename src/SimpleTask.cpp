@@ -19,9 +19,8 @@ bool CycleTask::isFired(void) { return this->fired; }
 bool CycleTask::isActive(void) { return this->active; }
 
 void CycleTask::update(void) {
-  int i;
-
   if (this->active == false) {
+    this->fired = false;
     return;
   } else {
     if (millis() - this->last_millis >= this->interval) {
